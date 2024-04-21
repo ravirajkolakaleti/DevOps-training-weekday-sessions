@@ -6,9 +6,9 @@ public class helloworld {
 		System.out.println("hello there!!!");
 
 	}
-
-	// from b1 branch + Dan + Ravi Code Changes
+	// from b1 branch + Dan + Ravi code changes
 	// Dan's code change for Stash demo ----
+	// Ravi code changes for stash demo -- 
 	public void m1 () {
 		System.out.println("hello");
 		System.out.println("new code changes");
